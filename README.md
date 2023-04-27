@@ -13,8 +13,8 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 
 ## Oportunidades de estancias de investigación/veranos
 
-| Programa      | País           | Universidad      | Nivel académico    | Financiamiento | Link            |
-| ------------- |:--------------:|:----------------:| :----------------: |:--------------:| --------------: |
-| Enlace        | Estados Unidos | UCSD             |                    |                |                 |
-| Global Link   | centered       |   $12            |                    |                |                 |
-| OIST RP       | are neat       |    $1            |                    |                |                 |
+| Programa      | País           | Institución        | Nivel académico    | Financiamiento | Link            |
+| ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
+| ENLACE        | Estados Unidos | University of California San Diego | `Preparatoria` `Universidad` `Posgrado` | :white_check_mark: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
+| Globalink     | Canada         | MITACS    | `Universidad`         | :white_check_mark: Completo | [Link](https://www.mitacs.ca/en/programs/globalink) |
+| OIST RP       | Japon  | Okinawa Institute of Science and Technology   |  `Universidad` `Posgrado` | :white_check_mark: Completo | [Link](https://admissions.oist.jp/oist-research-internship-program-description) |
