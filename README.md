@@ -17,4 +17,6 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
 | ENLACE        | Estados Unidos | University of California San Diego | `Preparatoria` `Universidad` `Posgrado` | :white_check_mark: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
 | Globalink     | Canada         | MITACS    | `Universidad`         | :white_check_mark: Completo | [Link](https://www.mitacs.ca/en/programs/globalink) |
-| OIST RP       | Japon  | Okinawa Institute of Science and Technology   |  `Universidad` `Posgrado` | :white_check_mark: Completo | [Link](https://admissions.oist.jp/oist-research-internship-program-description) |
+| OIST Research | Japon  | Okinawa Institute of Science and Technology   |  `Universidad` `Posgrado` | :white_check_mark: Completo | [Link](https://admissions.oist.jp/oist-research-internship-program-description) |
+| ICIQ Summer Fellows | España | Institute of Chemical Research of Catalonia | `Universidad`  | :white_check_mark: Completo | [Link](https://careers.iciq.org/jobs/2557776-iciq-summer-fellowship-program-call-2023) |
+| Amgen Scholars| Japon        | AMGEN     |  `Universidad` | :white_check_mark: Completo | [Link](https://amgenscholars.com/) |
