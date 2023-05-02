@@ -13,6 +13,8 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 
 ## Oportunidades de estancias de investigación/veranos
 
+### <u> *Internacional* </u>
+
 | Programa      | País           | Institución        | Nivel académico    | Financiamiento | Link            |
 | ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
 | ENLACE        | Estados Unidos | University of California San Diego | `Preparatoria` `Universidad` `Posgrado` | :white_check_mark: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
@@ -20,3 +22,11 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | OIST Research | Japon  | Okinawa Institute of Science and Technology   |  `Universidad` `Posgrado` | :white_check_mark: Completo | [Link](https://admissions.oist.jp/oist-research-internship-program-description) |
 | ICIQ Summer Fellows | España | Institute of Chemical Research of Catalonia | `Universidad`  | :white_check_mark: Completo | [Link](https://careers.iciq.org/jobs/2557776-iciq-summer-fellowship-program-call-2023) |
 | Amgen Scholars| Japon        | AMGEN     |  `Universidad` | :white_check_mark: Completo | [Link](https://amgenscholars.com/) |
+
+### <u> *Nacional* </u>
+
+| Programa      | País           | Institución        | Nivel académico    | Financiamiento | Link            |
+| ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
+| Veranos UG    | Guanajuato | Universidad de Guanajuato | `Preparatoria` `Universidad` `Posgrado` | :white_check_mark: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
+| Verano Delfin | Mexico         | CONACYT   | `Universidad`         | :white_check_mark: Completo | [Link]([https://www.programadelfin.org.mx/] |
+
