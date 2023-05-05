@@ -27,6 +27,10 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Dr. Bessie F. Lawrence ISSI | Israel | Weizmann Institute of Science |  `Preparatoria` `Universidad`  | :white_check_mark: Completo | [Link](https://davidson.weizmann.ac.il/en/programs/issi) |
 | iSURE | Estados Unidos | University Of Notre Dame | `Universidad` `Maestria`  | :white_check_mark: Completo | [Link](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) |
 | International Undergraduate Summer School  | Reino Unido | The John Innes Centre | `Universidad` | :black_square_button: Parcial | [Link](https://www.jic.ac.uk/training-careers/summer-schools/international-undergraduate/) |
+| SURF-Rockefeller | Estados Unidos | The Rockefeller University | `Universidad` | :white_check_mark: Completo | [Link](https://surfapplication.rockefeller.edu/) |
+| SFI-UCR | Estados Unidos | Santa Fe Institute | `Universidad`  | :white_check_mark: Completo | [Link](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) |
+| EPFL School of Life Sciences SPR | Suiza | Escuela Politécnica Federal de Lausana | `Universidad` `Maestria` | :white_check_mark: Completo | [Link](https://www.epfl.ch/schools/sv/education/summer-research-program/) |
+| Openlab Summer Student Programme | Suiza | CERN | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://jobs.smartrecruiters.com/CERN/743999862723511-cern-openlab-summer-student-programme-2023) |
 
 
 ### <u> *Nacional* </u>
@@ -34,5 +38,5 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Programa      | País           | Institución        | Nivel académico    | Financiamiento | Link            |
 | ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
 | Veranos UG    | Guanajuato | Universidad de Guanajuato | `Preparatoria` `Universidad` `Posgrado` | :black_square_button: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
-| Verano Delfin | Mexico         | CONACYT   | `Universidad`         | :white_check_mark: Completo | [Link](https://www.programadelfin.org.mx/) |
+| Verano Delfin | Mexico         | CONACYT   | `Universidad`         | :black_square_button: Parcial | [Link](https://www.programadelfin.org.mx/) |
 | Verano de la Ciencia de la Región Centro | Mexico         | N/A | `Universidad` | :x: N/A | [Link](https://www.veranoregional.org/) |
