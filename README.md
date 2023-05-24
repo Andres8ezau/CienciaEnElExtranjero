@@ -27,7 +27,7 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | KAUST VSRP | Arabia Saudita | King Abdullah University of Science and Technology | `Universidad` `Maestria` | :white_check_mark: Completo | [Link](https://vsrp.kaust.edu.sa/about-vsrp) |
 | Dr. Bessie F. Lawrence ISSI | Israel | Weizmann Institute of Science |  `Preparatoria` `Universidad`  | :white_check_mark: Completo | [Link](https://davidson.weizmann.ac.il/en/programs/issi) |
 | GIP-GIST | Corea | Gwangju Institute of Science and Technology | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://ipa.gist.ac.kr/ipa/html/sub03/030102.html) |
-| MaxSIP | Alemania | Insituto Max Planck | `Universidad` | :black_square_button: Parcial | [Link](https://imprs-ls.opencampus.net/en/MaxSIP) |
+| MaxSIP | Alemania | Instituto Max Planck | `Universidad` | :black_square_button: Parcial | [Link](https://imprs-ls.opencampus.net/en/MaxSIP) |
 | iSURE | Estados Unidos | University Of Notre Dame | `Universidad` `Maestria`  | :white_check_mark: Completo | [Link](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) |
 | International Undergraduate Summer School  | Reino Unido | The John Innes Centre | `Universidad` | :black_square_button: Parcial | [Link](https://www.jic.ac.uk/training-careers/summer-schools/international-undergraduate/) |
 | SURF-Rockefeller | Estados Unidos | The Rockefeller University | `Universidad` | :white_check_mark: Completo | [Link](https://surfapplication.rockefeller.edu/) |
