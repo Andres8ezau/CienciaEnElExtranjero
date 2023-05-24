@@ -26,10 +26,13 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | SURF-CTC | Estados Unidos | University of Minnesota | `Universidad`     | :white_check_mark: Completo | [Link](https://cse.umn.edu/ctc/surf) |
 | KAUST VSRP | Arabia Saudita | King Abdullah University of Science and Technology | `Universidad` `Maestria` | :white_check_mark: Completo | [Link](https://vsrp.kaust.edu.sa/about-vsrp) |
 | Dr. Bessie F. Lawrence ISSI | Israel | Weizmann Institute of Science |  `Preparatoria` `Universidad`  | :white_check_mark: Completo | [Link](https://davidson.weizmann.ac.il/en/programs/issi) |
+| GIP-GIST | Corea | Gwangju Institute of Science and Technology | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://ipa.gist.ac.kr/ipa/html/sub03/030102.html) |
+| MaxSIP | Alemania | Insituto Max Planck | `Universidad` | :black_square_button: Parcial | [Link](https://imprs-ls.opencampus.net/en/MaxSIP) |
 | iSURE | Estados Unidos | University Of Notre Dame | `Universidad` `Maestria`  | :white_check_mark: Completo | [Link](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) |
 | International Undergraduate Summer School  | Reino Unido | The John Innes Centre | `Universidad` | :black_square_button: Parcial | [Link](https://www.jic.ac.uk/training-careers/summer-schools/international-undergraduate/) |
 | SURF-Rockefeller | Estados Unidos | The Rockefeller University | `Universidad` | :white_check_mark: Completo | [Link](https://surfapplication.rockefeller.edu/) |
 | SFI-UCR | Estados Unidos | Santa Fe Institute | `Universidad`  | :white_check_mark: Completo | [Link](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) |
+| SEP-HZDR | Alemania | Helmholtz-Zentrum Dresden-Rossendorf | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://www.hzdr.de/db/Cms?pNid=2519) |
 | EPFL School of Life Sciences SPR | Suiza | Escuela Politécnica Federal de Lausana | `Universidad` `Maestria` | :white_check_mark: Completo | [Link](https://www.epfl.ch/schools/sv/education/summer-research-program/) |
 | Openlab Summer Student Programme | Suiza | CERN | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://jobs.smartrecruiters.com/CERN/743999862723511-cern-openlab-summer-student-programme-2023) |
 
@@ -42,6 +45,7 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Verano Delfin | Mexico         | CONACYT   | `Universidad`         | :black_square_button: Parcial | [Link](https://www.programadelfin.org.mx/) |
 | Verano de la Ciencia de la Región Centro | Mexico         | N/A | `Universidad` | :x: N/A | [Link](https://www.veranoregional.org/) |
 | Taller de Ciencias para Jovenes | Mexico | N/A | `Preparatoria` | :white_check_mark: Completo | [Link](https://tallerjovenes.cicese.mx/) |
+| Taller de Ciencia Viva | Mexico | CINVESTAV | `Preparatoria` | :white_check_mark: Completo | [Link](https://www.facebook.com/cienciavivairapuato/?locale=es_LA) |
 
 
 
