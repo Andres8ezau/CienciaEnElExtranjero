@@ -39,7 +39,7 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 
 ### <u> *Nacional* </u>
 
-| Programa      | País           | Institución        | Nivel académico    | Financiamiento | Link            |
+| Programa      | Ciudad-Estado           | Institución        | Nivel académico    | Financiamiento | Link            |
 | ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
 | Veranos UG    | Guanajuato | Universidad de Guanajuato | `Preparatoria` `Universidad` `Posgrado` | :black_square_button: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
 | Verano Delfin | Mexico         | CONACYT   | `Universidad`         | :black_square_button: Parcial | [Link](https://www.programadelfin.org.mx/) |
