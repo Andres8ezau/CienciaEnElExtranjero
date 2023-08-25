@@ -51,6 +51,15 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 
 ### <u> + Recursos <u> 
 
+CV:
+FlowCV [Link](https://flowcv.com)
+
+Resume.io [Link](https://resume.io/)
+
+Otros:
+
+Científico Latino [Link](https://www.cientificolatino.com/)
+
 
 
 
