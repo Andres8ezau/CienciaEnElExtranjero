@@ -1,14 +1,14 @@
 # CienciaEnElExtranjero
 
-#### Si eres un estudiante de ciencias en México y estás interesado en conseguir una estancia o un verano de investigación en el extranjero, hay varios pasos que puedes seguir para hacerlo realidad.
+#### Si eres un estudiante de ciencias en México y estás interesado en conseguir una estancia o un verano de investigación en el extranjero,existen una increible variedad de programas a los que puedes aplicar, para esto, hay varios pasos que puedes seguir para hacerlo realidad.
 
 1. En primer lugar, debes investigar qué programas de intercambio están disponibles para estudiantes de tu área de estudio.
 
-2. Una vez que hayas identificado los programas de intercambio que te interesan, debes asegurarte de cumplir con los requisitos de elegibilidad y preparar una solicitud completa y detallada. Asegúrate de incluir tus antecedentes académicos, experiencia en investigación, idiomas y cualquier otra información relevante que puedas proporcionar.
+2. Una vez que hayas identificado los programas que te interesan, debes asegurarte de cumplir con los requisitos de elegibilidad y preparar una solicitud completa y detallada (CV, carta de motivos, cartas de recomendacion, etc.) Asegúrate de incluir tus antecedentes académicos, experiencia en investigación, idiomas y cualquier otra información relevante que puedas proporcionar.
 
-3. También es recomendable contactar a profesores o investigadores en las universidades extranjeras que te interesan y establecer una relación con ellos. Esto puede ayudarte a obtener cartas de recomendación sólidas y a aumentar tus posibilidades de ser aceptado en un programa de intercambio.
+4. También es recomendable contactar a profesores o investigadores en las universidades extranjeras que te interesan y establecer un primer contacto con ellos y a aumentar tus posibilidades de ser aceptado en algun programa (Si la convocatoria especifica, que no contactes a los profesores, bajo ninguna circunstancia lo hagas, ya que esto puede provocar el rechazo automatico por parte del programa).
 
-4. Por último, debes ser proactivo en la búsqueda de financiamiento para tu estancia o verano de investigación en el extranjero. Muchas instituciones ofrecen becas y subvenciones para estudiantes internacionales, pero debes estar atento a los plazos de solicitud y cumplir con los requisitos de elegibilidad.
+5. Por último, debes ser proactivo en la búsqueda de financiamiento para tu estancia o verano de investigación en el extranjero. Muchas instituciones ofrecen becas y subvenciones para estudiantes internacionales, pero debes estar atento a los plazos de solicitud y cumplir con los requisitos de elegibilidad.
 
 Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o verano de investigación en el extranjero y aprovechar al máximo esta valiosa oportunidad para mejorar tus habilidades y conocimientos en ciencias.
 
@@ -46,6 +46,12 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Verano de la Ciencia de la Región Centro | Mexico         | N/A | `Universidad` | :x: N/A | [Link](https://www.veranoregional.org/) |
 | Taller de Ciencias para Jovenes | Mexico | N/A | `Preparatoria` | :white_check_mark: Completo | [Link](https://tallerjovenes.cicese.mx/) |
 | Taller de Ciencia Viva | Mexico | CINVESTAV | `Preparatoria` | :white_check_mark: Completo | [Link](https://www.facebook.com/cienciavivairapuato/?locale=es_LA) |
+
+
+
+### <u> + Recursos <u> 
+
+
 
 
 
