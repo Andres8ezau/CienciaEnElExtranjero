@@ -1,12 +1,12 @@
 # CienciaEnElExtranjero
 
-#### Si eres un estudiante de ciencias en México y estás interesado en conseguir una estancia o un verano de investigación en el extranjero,existen una increible variedad de programas a los que puedes aplicar, para esto, hay varios pasos que puedes seguir para hacerlo realidad.
+#### Si eres un estudiante de ciencias en México y estás interesado en conseguir una estancia o un verano de investigación en el extranjero,existen una increíble variedad de programas a los que puedes aplicar, para esto, hay varios pasos que puedes seguir para hacerlo realidad.
 
 1. En primer lugar, debes investigar qué programas de intercambio están disponibles para estudiantes de tu área de estudio.
 
-2. Una vez que hayas identificado los programas que te interesan, debes asegurarte de cumplir con los requisitos de elegibilidad y preparar una solicitud completa y detallada (CV, carta de motivos, cartas de recomendacion, etc.) Asegúrate de incluir tus antecedentes académicos, experiencia en investigación, idiomas y cualquier otra información relevante que puedas proporcionar.
+2. Una vez que hayas identificado los programas que te interesan, debes asegurarte de cumplir con los requisitos de elegibilidad y preparar una solicitud completa y detallada (CV, carta de motivos, cartas de recomendación, etc.) Asegúrate de incluir tus antecedentes académicos, experiencia en investigación, idiomas y cualquier otra información relevante que puedas proporcionar.
 
-4. También es recomendable contactar a profesores o investigadores en las universidades extranjeras que te interesan y establecer un primer contacto con ellos y a aumentar tus posibilidades de ser aceptado en algun programa (Si la convocatoria especifica, que no contactes a los profesores, bajo ninguna circunstancia lo hagas, ya que esto puede provocar el rechazo automatico por parte del programa).
+4. También es recomendable contactar a profesores o investigadores en las universidades extranjeras que te interesan y establecer un primer contacto con ellos y a aumentar tus posibilidades de ser aceptado en algún programa (Si la convocatoria especifica, que no contactes a los profesores, bajo ninguna circunstancia lo hagas, ya que esto puede provocar el rechazo automático por parte del programa).
 
 5. Por último, debes ser proactivo en la búsqueda de financiamiento para tu estancia o verano de investigación en el extranjero. Muchas instituciones ofrecen becas y subvenciones para estudiantes internacionales, pero debes estar atento a los plazos de solicitud y cumplir con los requisitos de elegibilidad.
 
@@ -24,17 +24,17 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | ICIQ Summer Fellows | España | Institute of Chemical Research of Catalonia | `Universidad`  | :black_square_button: Parcial | [Link](https://careers.iciq.org/jobs/2557776-iciq-summer-fellowship-program-call-2023) |
 | Amgen Scholars| Japon        | AMGEN     |  `Universidad` | :white_check_mark: Completo | [Link](https://amgenscholars.com/) |
 | SURF-CTC | Estados Unidos | University of Minnesota | `Universidad`     | :white_check_mark: Completo | [Link](https://cse.umn.edu/ctc/surf) |
-| KAUST VSRP | Arabia Saudita | King Abdullah University of Science and Technology | `Universidad` `Maestria` | :white_check_mark: Completo | [Link](https://vsrp.kaust.edu.sa/about-vsrp) |
+| KAUST VSRP | Arabia Saudita | King Abdullah University of Science and Technology | `Universidad` `Maestría` | :white_check_mark: Completo | [Link](https://vsrp.kaust.edu.sa/about-vsrp) |
 | Dr. Bessie F. Lawrence ISSI | Israel | Weizmann Institute of Science |  `Preparatoria` `Universidad`  | :white_check_mark: Completo | [Link](https://davidson.weizmann.ac.il/en/programs/issi) |
-| GIP-GIST | Corea | Gwangju Institute of Science and Technology | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://ipa.gist.ac.kr/ipa/html/sub03/030102.html) |
+| GIP-GIST | Corea | Gwangju Institute of Science and Technology | `Universidad` `Maestría`  | :black_square_button: Parcial | [Link](https://ipa.gist.ac.kr/ipa/html/sub03/030102.html) |
 | MaxSIP | Alemania | Instituto Max Planck | `Universidad` | :black_square_button: Parcial | [Link](https://imprs-ls.opencampus.net/en/MaxSIP) |
-| iSURE | Estados Unidos | University Of Notre Dame | `Universidad` `Maestria`  | :white_check_mark: Completo | [Link](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) |
+| iSURE | Estados Unidos | University Of Notre Dame | `Universidad` `Maestría`  | :white_check_mark: Completo | [Link](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) |
 | International Undergraduate Summer School  | Reino Unido | The John Innes Centre | `Universidad` | :black_square_button: Parcial | [Link](https://www.jic.ac.uk/training-careers/summer-schools/international-undergraduate/) |
 | SURF-Rockefeller | Estados Unidos | The Rockefeller University | `Universidad` | :white_check_mark: Completo | [Link](https://surfapplication.rockefeller.edu/) |
 | SFI-UCR | Estados Unidos | Santa Fe Institute | `Universidad`  | :white_check_mark: Completo | [Link](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) |
-| SEP-HZDR | Alemania | Helmholtz-Zentrum Dresden-Rossendorf | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://www.hzdr.de/db/Cms?pNid=2519) |
-| EPFL School of Life Sciences SPR | Suiza | Escuela Politécnica Federal de Lausana | `Universidad` `Maestria` | :white_check_mark: Completo | [Link](https://www.epfl.ch/schools/sv/education/summer-research-program/) |
-| Openlab Summer Student Programme | Suiza | CERN | `Universidad` `Maestria`  | :black_square_button: Parcial | [Link](https://jobs.smartrecruiters.com/CERN/743999862723511-cern-openlab-summer-student-programme-2023) |
+| SEP-HZDR | Alemania | Helmholtz-Zentrum Dresden-Rossendorf | `Universidad` `Maestría`  | :black_square_button: Parcial | [Link](https://www.hzdr.de/db/Cms?pNid=2519) |
+| EPFL School of Life Sciences SPR | Suiza | Escuela Politécnica Federal de Lausana | `Universidad` `Maestría` | :white_check_mark: Completo | [Link](https://www.epfl.ch/schools/sv/education/summer-research-program/) |
+| Openlab Summer Student Programme | Suiza | CERN | `Universidad` `Maestría`  | :black_square_button: Parcial | [Link](https://jobs.smartrecruiters.com/CERN/743999862723511-cern-openlab-summer-student-programme-2023) |
 
 
 ### <u> *Nacional* </u>
@@ -42,10 +42,10 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Programa      | Ciudad-Estado           | Institución        | Nivel académico    | Financiamiento | Link            |
 | ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
 | Veranos UG    | Guanajuato | Universidad de Guanajuato | `Preparatoria` `Universidad` `Posgrado` | :black_square_button: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
-| Verano Delfin | Mexico         | CONACYT   | `Universidad`         | :black_square_button: Parcial | [Link](https://www.programadelfin.org.mx/) |
-| Verano de la Ciencia de la Región Centro | Mexico         | N/A | `Universidad` | :x: N/A | [Link](https://www.veranoregional.org/) |
-| Taller de Ciencias para Jovenes | Mexico | N/A | `Preparatoria` | :white_check_mark: Completo | [Link](https://tallerjovenes.cicese.mx/) |
-| Taller de Ciencia Viva | Mexico | CINVESTAV | `Preparatoria` | :white_check_mark: Completo | [Link](https://www.facebook.com/cienciavivairapuato/?locale=es_LA) |
+| Verano Delfin | México       | CONACYT   | `Universidad`         | :black_square_button: Parcial | [Link](https://www.programadelfin.org.mx/) |
+| Verano de la Ciencia de la Región Centro | México         | N/A | `Universidad` | :x: N/A | [Link](https://www.veranoregional.org/) |
+| Taller de Ciencias para Jóvenes | México | N/A | `Preparatoria` | :white_check_mark: Completo | [Link](https://tallerjovenes.cicese.mx/) |
+| Taller de Ciencia Viva | México | CINVESTAV | `Preparatoria` | :white_check_mark: Completo | [Link](https://www.facebook.com/cienciavivairapuato/?locale=es_LA) |
 
 
 
