@@ -18,6 +18,7 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 
 | Programa      | País           | Institución        | Nivel académico    | Financiamiento | Link            |
 | ------------- |:--------------:|:------------------:| :----------------: |:--------------:| --------------: |
+| iScholar      | Estados Unidos | University of Rochester |  `Universidad` | :white_check_mark: Completo | [Link](https://www.sas.rochester.edu/chm/undergraduate/i-scholar.html) |
 | ENLACE        | Estados Unidos | University of California San Diego | `Preparatoria` `Universidad` `Posgrado` | :black_square_button: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
 | Globalink     | Canada         | MITACS    | `Universidad`         | :white_check_mark: Completo | [Link](https://www.mitacs.ca/en/programs/globalink) |
 | OIST Research | Japon  | Okinawa Institute of Science and Technology   |  `Universidad` `Posgrado` | :white_check_mark: Completo | [Link](https://admissions.oist.jp/oist-research-internship-program-description) |
