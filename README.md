@@ -4,6 +4,8 @@
 
 #### Si eres un estudiante de ciencias en México y estás interesado en conseguir una estancia o un verano de investigación en el extranjero,existen una increíble variedad de programas a los que puedes aplicar, para esto, hay varios pasos que puedes seguir para hacerlo realidad.
 
+<img align='right' src="https://github.com/Andres8ezau/CienciaEnElExtranjero/blob/main/Files/WhatsApp%20Image%202024-07-10%20at%2012.01.10_1.jpeg" width="350" />
+
 1. En primer lugar, debes investigar qué programas de intercambio están disponibles para estudiantes de tu área de estudio.
 
 2. Una vez que hayas identificado los programas que te interesan, debes asegurarte de cumplir con los requisitos de elegibilidad y preparar una solicitud completa y detallada (CV, carta de motivos, cartas de recomendación, etc.) Asegúrate de incluir tus antecedentes académicos, experiencia en investigación, idiomas y cualquier otra información relevante que puedas proporcionar.
