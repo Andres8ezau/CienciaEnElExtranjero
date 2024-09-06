@@ -2,6 +2,8 @@
 
 # Ciencia En El Extranjero
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAndres8ezau%2FCienciaEnElExtranjero&count_bg=%23150751&title_bg=%23555555&icon=&icon_color=%231E2879&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 #### Si eres un estudiante de ciencias en México y estás interesado en conseguir una estancia o un verano de investigación en el extranjero,existen una increíble variedad de programas a los que puedes aplicar, para esto, hay varios pasos que puedes seguir para hacerlo realidad.
 
 <img align='right' src="https://github.com/Andres8ezau/CienciaEnElExtranjero/blob/main/Files/WhatsApp%20Image%202024-07-10%20at%2012.01.10_1.jpeg" width="350" />
