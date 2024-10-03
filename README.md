@@ -44,6 +44,8 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Openlab Summer Student Programme | Suiza | CERN | `Universidad` `Maestría`  | :black_square_button: Parcial | [Link](https://jobs.smartrecruiters.com/CERN/743999862723511-cern-openlab-summer-student-programme-2023) |
 | NCTS-TCA Summer Student Program | Taiwán | NCTS | `Universidad` | :black_square_button: Parcial | [Link](https://nctstca.github.io/events/202307-tcassp/#:~:text=The%20Theoretical%20and%20Computational%20Astrophysics,basic%20theoretical%20and%20computational%20skills.) |
 | US-Mexico Intern Program | EU | CETUSA | `Universidad` `Recien Graduados`  | :black_square_button: Parcial | [Link](https://www.cetusa.org/trainee-internship-programs-3/us-mexico-intern-program/) |
+| Yale Young Global Scholars (YYGS)  | EU | Yale University | `Preparatoria`  | :black_square_button: Parcial | [Link](https://globalscholars.yale.edu/about) |
+
 
 
 ### <u> *Nacional* </u>
