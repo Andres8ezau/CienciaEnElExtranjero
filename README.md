@@ -55,7 +55,7 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Veranos UG    | Guanajuato | Universidad de Guanajuato | `Preparatoria` `Universidad` `Posgrado` | :black_square_button: Parcial | [Link](http://resilientmaterials.ucsd.edu/ENLACE) |
 | Verano Delfin | México       | CONACYT   | `Universidad`         | :black_square_button: Parcial | [Link](https://www.programadelfin.org.mx/) |
 | Verano de la Ciencia de la Región Centro | México         | N/A | `Universidad` | :x: N/A | [Link](https://www.veranoregional.org/) |
-| Taller de Ciencias para Jóvenes | México | N/A | `Preparatoria` | :white_check_mark: Completo | [Link](https://tallerjovenes.cicese.mx/) |
+| Taller de Ciencias para Jóvenes (Campeche) | México | N/A | `Preparatoria` | :white_check_mark: Completo | [Link](https://www.tcjcampeche.com.mx/) |
 | Taller de Ciencia Viva | México | CINVESTAV | `Preparatoria` | :white_check_mark: Completo | [Link](https://www.facebook.com/cienciavivairapuato/?locale=es_LA) |
 
 
