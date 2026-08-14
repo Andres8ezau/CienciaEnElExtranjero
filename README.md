@@ -32,7 +32,6 @@ Con estos pasos, puedes aumentar tus posibilidades de obtener una estancia o ver
 | Amgen Scholars| Japon        | AMGEN     |  `Universidad` | :white_check_mark: Completo | [Link](https://amgenscholars.com/) |
 | SURF-CTC | Estados Unidos | University of Minnesota | `Universidad`     | :white_check_mark: Completo | [Link](https://cse.umn.edu/ctc/surf) |
 | KAUST VSRP | Arabia Saudita | King Abdullah University of Science and Technology | `Universidad` `Maestría` | :white_check_mark: Completo | [Link](https://vsrp.kaust.edu.sa/about-vsrp) |
-| Dr. Bessie F. Lawrence ISSI | Israel | Weizmann Institute of Science |  `Preparatoria` `Universidad`  | :white_check_mark: Completo | [Link](https://davidson.weizmann.ac.il/en/programs/issi) |
 | GIP-GIST | Corea | Gwangju Institute of Science and Technology | `Universidad` `Maestría`  | :black_square_button: Parcial | [Link](https://ipa.gist.ac.kr/ipa/html/sub03/030102.html) |
 | MaxSIP | Alemania | Instituto Max Planck | `Universidad` | :black_square_button: Parcial | [Link](https://imprs-ls.opencampus.net/en/MaxSIP) |
 | iSURE | Estados Unidos | University Of Notre Dame | `Universidad` `Maestría`  | :white_check_mark: Completo | [Link](https://ndi-sa.nd.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=10096) |
